@@ -27,4 +27,4 @@ Diego Acevedo, Shaun Friedman, Priscilla Marquez
 
 **Acknowledgments**
 -
-- The work represents a collective effort from all group members:  Priscilla Marquez 
+- The work represents a collective effort from all group members:  Diego Acevedo, Shaun Friedman, Priscilla Marquez
