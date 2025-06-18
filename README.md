@@ -1,6 +1,6 @@
 ﻿# AAI-510-Final-Project
  
-**Group 5 Predicting Customer Churn from Subscription Based Business **
+**Group 5 Predicting Customer Churn from Subscription Based Business**
 -  
 
 **Partner(s)/Contributor(s)**
@@ -8,9 +8,9 @@
 Diego Acevedo, Shaun Friedman, Priscilla Marquez
 
 **Methods Used**
-- 
-- 
--
+- Random Forest
+- XGBoost
+- Transformer Network
 
 **Technologies**
 -
