@@ -1,0 +1,72 @@
+{
+    "cat_cols": [
+        "Gender",
+        "Subscription Type",
+        "Contract Length"
+    ],
+    "num_cols": [
+        "Age",
+        "Tenure",
+        "Usage Frequency",
+        "Support Calls",
+        "Payment Delay",
+        "Total Spend",
+        "Last Interaction",
+        "Churn"
+    ],
+    "cardinalities": [
+        2,
+        3,
+        3
+    ],
+    "continuous_mean_std": [
+        [
+            39.37315368652344,
+            12.44236946105957
+        ],
+        [
+            31.256336212158203,
+            17.255727767944336
+        ],
+        [
+            15.807493209838867,
+            8.586241722106934
+        ],
+        [
+            3.6044366359710693,
+            3.0702178478240967
+        ],
+        [
+            12.96572208404541,
+            8.258062362670898
+        ],
+        [
+            631.6162109375,
+            240.80299377441406
+        ],
+        [
+            14.480868339538574,
+            8.596207618713379
+        ],
+        [
+            0.5671072006225586,
+            0.49547672271728516
+        ]
+    ],
+    "cat_dtypes": {
+        "Gender": [
+            "Female",
+            "Male"
+        ],
+        "Subscription Type": [
+            "Basic",
+            "Premium",
+            "Standard"
+        ],
+        "Contract Length": [
+            "Annual",
+            "Monthly",
+            "Quarterly"
+        ]
+    }
+}
